@@ -48,7 +48,7 @@ Este cheat contém funções simples que funcionam apenas no modo singleplayer. 
 
 ## Instruções de Instalação e Uso do Cheat
 
-**Observação:** O cheat só funcionará se o **AssaultCube 1.3.0.2** for da versão "1.3.0.2". Caso contrário, não funcionará.
+**Observação:** O cheat só funcionará se o **AssaultCube** for da versão "1.3.0.2". Caso contrário, não funcionará.
 
 ### Requisitos do Sistema
 
@@ -58,7 +58,7 @@ Este cheat contém funções simples que funcionam apenas no modo singleplayer. 
 ### Instalar o AssaultCube 1.3.0.2
 
 1. **Baixe o AssaultCube 1.3.0.2**:
-   - Abra o arquivo ["Downloads"](https://github.com/Luan-S-S/Cheat-Externo-Legit-AssaultCube-1.3.0.2/blob/main/Downloads.md).
+   - Abra o arquivo ["Downloads"](https://github.com/Luan-S-S/Cheat-Externo-AssaultCube-1.3.0.2/blob/main/Downloads.md).
    - Clique no link de: `Clique aqui para baixar o Instalador do AssaultCube`.
    - Realize o Download do arquivo: `AssaultCube_v1.3.0.2_LockdownEdition` no **MediaFire**. Fique tranquilo, o arquivo é 100% seguro.
 
@@ -74,7 +74,7 @@ Este cheat contém funções simples que funcionam apenas no modo singleplayer. 
    - Se seu computador não tiver a opção de extrair arquivos naturalmente, baixe e instale o **WinRAR**. Ele será necessário para extrair o arquivo ZIP.
 
 2. **Baixe o arquivo ZIP do Cheat**:
-   - Abra o arquivo ["Downloads"](https://github.com/Luan-S-S/Cheat-Externo-Legit-AssaultCube-1.3.0.2/blob/main/Downloads.md).
+   - Abra o arquivo ["Downloads"](https://github.com/Luan-S-S/Cheat-Externo-AssaultCube-1.3.0.2/blob/main/Downloads.md).
    - Clique no link de: `Clique aqui para baixar a verssão release do Cheat`.
    - Faça o download do arquivo `Cheat Externo AssaultCube 1.3.0.2 Release.zip` no **MediaFire**. Fique tranquilo, o arquivo é 100% seguro.
    - Com o arquivo já na sua máquina, clique com o botão direito do mouse e em **WinRAR**, clique em **"Extrair aqui"**.
